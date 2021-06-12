@@ -43,7 +43,7 @@ palette:
 
 
 highlights:
-  Normal: "fg bg"
+  Normal: "bg fg"
 
   Comment: "green - i"
   Constant: "yellow"
